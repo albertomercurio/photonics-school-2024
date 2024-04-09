@@ -1,5 +1,9 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/albertomercurio/photonics-school-2024/HEAD)
 
+Emails:
+- alberto.mercurio@epfl.ch
+- daniele.debernardis@ino.it
+
 # Lecture Series Repository Setup Guide
 
 Welcome to the GitHub repository for our lecture series. This guide will help you set up your environment to access and interact with the materials provided in the lectures. Follow these steps for a smooth setup process.
