@@ -3,7 +3,7 @@
 {
 	"name": "Ubuntu with Python and Julia",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "ghcr.io/albertomercurio/ubuntu_python-julia:latest",
+	"image": "ghcr.io/albertomercurio/ubuntu_python-julia:release",
 
 	// Configure tool-specific properties.
 	"customizations": {
